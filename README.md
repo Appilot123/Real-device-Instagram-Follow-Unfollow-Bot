@@ -109,4 +109,4 @@ MIT — see [LICENSE](./LICENSE)
 ---
 
 ## Footer image
-<img width="1536" height="400" alt="Image" src="https://github.com/user-attachments/assets/356f461d-feae-4fef-b2fd-21bf6b0e90b6" />
+<img width="1536" height="400" alt="Image" src="https://github.com/user-attachments/assets/26d45aca-c936-45fd-8310-ed144dbe876e" />
