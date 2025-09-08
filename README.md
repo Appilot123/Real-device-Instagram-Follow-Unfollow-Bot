@@ -45,7 +45,7 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 ---
 
 ## Try it for free
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/199762ad-d32e-4690-8b26-3fc5e214db40" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/199762ad-d32e-4690-8b26-3fc5e214db40" />
 
 - **Included**: Follow, Unfollow, Share Reels, Share Posts  
 - **Upgrade path**: Move to Pro for Likes, Comments, Stories, Posting, DMs, Scheduler, Device Farm Manager, and more
