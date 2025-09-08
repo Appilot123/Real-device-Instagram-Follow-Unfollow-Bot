@@ -40,7 +40,6 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 | 3 | Share reels | Share any reel to DMs or to your story share queue (share action). |
 | 4 | Share posts | Share feed posts to DMs or to your story share queue (share action). |
 
-**Built-in mechanics:** rate limiter + jitter, retries with backoff, dry-run mode, JSON logs, screenshots on error, idempotent resumes.
 
 ---
 
