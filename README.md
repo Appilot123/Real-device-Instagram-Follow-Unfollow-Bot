@@ -62,8 +62,7 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 ---
 
 ## Workflow image
-<img width="1536" height="500" alt="Workflow" src="./assets/workflow.png" />
-
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/d63c2611-11bf-48ce-8f62-d7a9aeb44bde" />
 ---
 
 ## Key Stats
@@ -75,14 +74,8 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 - **Extensible**: Same structure as Pro—upgrade without rewriting
 
 ---
-
 ## FAQ
 
-Q: **Is this safe for my accounts?**  
-A: No automation is “risk-free.” Use conservative limits, unique device fingerprints, quality proxies/SIMs, and warm accounts first.
-
-Q: **Does this repo include DMs, Likes, Comments, or Posting?**  
-A: This free repo includes **Follow, Unfollow, Share Reels, Share Posts**. Pro unlocks DMs, Posting, Likes, Comments, Stories, Scheduler, Farm Manager, etc.
 
 Q: **Can it run on emulators?**  
 A: Primary focus is **real devices**. Emulator support is possible but riskier. We recommend real hardware.
