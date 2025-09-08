@@ -91,6 +91,11 @@ A: You are responsible for adhering to Instagram’s Terms and applicable laws. 
 
 ---
 
+## License
+MIT — see [LICENSE](./LICENSE)
+
+---
+
 ## Contact us
 <p align="center">
   <a href="https://discord.gg/zX7frTbx">
@@ -102,11 +107,4 @@ A: You are responsible for adhering to Instagram’s Terms and applicable laws. 
 </p>
 
 ---
-
-## License
-MIT — see [LICENSE](./LICENSE)
-
----
-
-## Footer image
 <img width="1536" height="400" alt="Image" src="https://github.com/user-attachments/assets/26d45aca-c936-45fd-8310-ed144dbe876e" />
