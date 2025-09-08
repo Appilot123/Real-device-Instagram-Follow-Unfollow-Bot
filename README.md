@@ -9,6 +9,7 @@ A production-grade starter focused on **four core actions** so anyone can safely
 
 ---
 <img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/99427280-2609-44fc-b1b9-4066a43e8c90" />
+
 ---
 
 ## Table of content
