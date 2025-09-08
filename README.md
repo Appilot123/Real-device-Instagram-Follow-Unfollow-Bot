@@ -1,4 +1,4 @@
-# Real-Device Instagram Automation Bot — Free Core Actions
+# Instagram Automation Follow Unfollow Bot 
 
 > 100% free, self-hosted **real device** automation for Instagram: **Follow, Unfollow, Share Reels, Share Posts**. Human-like pacing, dry-run, retries, and logs included.
 
