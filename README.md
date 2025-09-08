@@ -8,7 +8,7 @@
 A production-grade starter focused on **four core actions** so anyone can safely test real-device automation. Queue tasks, pace like a human, log everything, and scale from one phone to a farm.
 
 ---
-<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/99427280-2609-44fc-b1b9-4066a43e8c90" />
+<img width="1536" height="500" alt="Image" src="https://github.com/user-attachments/assets/1fe0bce2-03af-46f4-9063-0d8160cbb419" />
 
 ---
 
