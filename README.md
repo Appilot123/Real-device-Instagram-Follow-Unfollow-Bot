@@ -48,6 +48,15 @@ This bot drives **real devices** via ADB/Appium to execute Instagram actions wit
 
 
 ---
+## Video Demo
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/480b9ec7-05ac-4ea8-b3f7-6005335fbc36"
+       alt="BOTS DEMO"
+       width="250px" />
+  </p>
+
+---
 
 ## Workflow
 
